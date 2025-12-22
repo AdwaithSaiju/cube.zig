@@ -1,0 +1,39 @@
+# Zig build artifacts
+zig-cache/
+.zig-cache/
+zig-out/
+
+# Executable output
+main
+cube
+*.exe
+*.o
+*.obj
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.iml
+.vs/
+*.sublime-*
+
+# Build artifacts
+*.a
+*.so
+*.dylib
+*.dll
+*.lib
+
+# Debug files
+*.pdb
+*.dSYM/
+
+# Log files
+*.log
