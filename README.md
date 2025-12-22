@@ -16,5 +16,4 @@ This project is a Zig implementation inspired by the original C version:
 ## Build and Run
 
 ```bash
-zig build-exe main.zig
-./main
+zig build run
