@@ -16,4 +16,6 @@ This project is a Zig implementation inspired by the original C version:
 ## Build and Run
 
 ```bash
+git clone https://github.com/AdwaithSaiju/cube.zig.git
+cd cube.zig
 zig build run
